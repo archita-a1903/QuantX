@@ -1,7 +1,7 @@
 # ⚡ QuantX — Multi-Asset Portfolio Backtesting & Trading Strategy Simulator
 
 QuantX is an advanced **Streamlit-based quantitative trading research toolkit** that lets you design, test, and visualize trading strategies with just a few clicks.  
-It combines **technical indicators**, **multiple trading strategies**, and a **vectorized multi-asset backtesting engine** — giving you powerful analytics, portfolio performance metrics, and visual insights in real-time.
+It combines **technical indicators**, **multiple trading strategies**, and a **vectorized multi-asset backtesting engine** giving you powerful analytics, portfolio performance metrics, and visual insights in real-time.
 
 > ⚠️ For research and educational use only. QuantX does **not** provide financial or investment advice.
 
